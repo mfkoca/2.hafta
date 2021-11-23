@@ -1,2 +1,2 @@
 # 2.hafta
-2. Hafta ödevleri
+Engin Demirog ile Yazılım Geliştirici Yetiştirme Kampı (JavaScript) 2. Hafta ödevidir.
